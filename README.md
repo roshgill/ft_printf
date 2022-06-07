@@ -9,4 +9,4 @@ Length handled: l, ll, h, hh, L <br />
 
 Run Program on Command Line: gcc -g main.c printf.c input_check.c char_str_percent_functions.c pointeraddress_decimal_functions.c octal_unsigneddecimal_functions.c hexadecimal_float_functions.c <br />
 
-The output contains a multitude of different tests performed on ft_printf in comparison with the original function printf.
+The output contains a multitude of different tests performed on ft_printf with comparison to the original function printf.
